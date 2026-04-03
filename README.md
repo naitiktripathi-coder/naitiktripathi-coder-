@@ -28,10 +28,13 @@
 
 🚀 Projects
 
-- 📘 "Words Mart (Dictionary App)" (https://github.com/naitiktripathi-coder/smart-python-projects)
+Present in =: https://github.com/naitiktripathi-coder/smart-python-projects
+
+- 📘 Words Mart (Dictionary App)(GUI Based)
 - 📐 Smart Area Calculator
 - 🎮 Rock Paper Scissors
-- 🐢 Turtle Graphics
+- 🎮 E-Mail Simulator 
+- 🔎 Smart Search Engine (App Search Hub)
 
 ---
 
