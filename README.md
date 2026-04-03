@@ -1,4 +1,4 @@
-# naitiktripathi-coder-
+# naitiktripathi-coder
 
 👋 Hey, I'm Naitik
 
