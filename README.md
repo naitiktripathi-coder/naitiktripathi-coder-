@@ -41,7 +41,6 @@ Present in =: https://github.com/naitiktripathi-coder/smart-python-projects
 📊 GitHub Stats
 
 "Stats" (https://github-readme-stats.vercel.app/api?username=naitiktripathi-coder&show_icons=true&theme=tokyonight)
-
 ---
 
 🎯 Goal
