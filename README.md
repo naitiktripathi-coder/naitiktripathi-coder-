@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="https://github.com/naitiktripathi-coder/naitiktripathi-coder/raw/main/banner.jpg" width="100%" />
+  <img src="https://github.com/naitiktripathi-coder/naitiktripathi-coder/raw/main/Gemini_Generated_Image_xlmkgixlmkgixlmk.png" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Naitik Tripathi</h1>
 <p align="center">Python Learner | Building Smart & Creative Projects 🚀</p>
+
 # naitiktripathi-coder
 # Naitik Tripathi 
 
